@@ -14,5 +14,5 @@ Deployment of the second computing cluster till end of the year. We have the cur
 
 We also plan to continuously invest into additional hardware expansion, once we are elected.
 
-Update 13.09.2018
+<b>Update 13.09.2018</b><br>
 We have completed a storage expansion to 16 TB. It was necesarry in order to deploy additional full nodes.
