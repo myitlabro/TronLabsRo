@@ -13,3 +13,6 @@ Planned hardware expansion for Q4 2018
 Deployment of the second computing cluster till end of the year. We have the current equipment ready for Data Center delivery and monitor the usage closely. 
 
 We also plan to continuously invest into additional hardware expansion, once we are elected.
+
+Update 13.09.2018
+We have completed a storage expansion to 16 TB. It was necesarry in order to deploy additional full nodes.
