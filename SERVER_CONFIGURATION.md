@@ -4,7 +4,7 @@ We started with a main and a backup node, both virtualized. The bare metal serve
 
 Physical servers.
 A computing cluster of four nodes, each a HP Proliant with 24 Cores Xeon, 272 GB RAM, 8 TB (Raid10) + 1 TB (SSD). 
-Total capacity is <b>96 logical CPU Cores, 1.06 TB of RAM and 18 TB of Storage</b>.
+Total capacity is 96 logical CPU Cores, 1.06 TB of RAM and 18 TB of Storage.
 
 Virtualized servers
 For the main and backup node, our servers have the following configuration:
