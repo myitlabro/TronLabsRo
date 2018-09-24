@@ -24,4 +24,4 @@ We also plan to continuously invest into additional hardware expansion, once we 
 We have completed a storage expansion to 16 TB. It was necesarry in order to deploy additional full nodes.
 
 <b>Update 21.09.2018</b><br>
-We have completed the hardware expansion ahead of Q4. It was not necesarry but I had a lot of fun doing it.
+We have completed the hardware expansion ahead of Q4. It was not necesarry, but I had a lot of fun doing it.
