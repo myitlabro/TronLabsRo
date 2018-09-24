@@ -13,15 +13,15 @@ For the main and backup node, our servers have the following configuration:
 Network
 The private cloud network uplink bandwidth was increased to 4 gbps via a LACP port trunk into the core switch.
 
-v--------------------------- completed ahead of schedule ---------------------------v
+
 Planned hardware expansion for Q4 2018
 Deployment of the second computing cluster till end of the year. We have the current equipment ready for Data Center delivery and monitor the usage closely. 
-^--------------------------- completed ahead of schedule ---------------------------^
+
 
 We also plan to continuously invest into additional hardware expansion, once we are elected.
 
-<b>Update 13.09.2018</b><br>
+Update 13.09.2018<br>
 We have completed a storage expansion to 16 TB. It was necesarry in order to deploy additional full nodes.
 
-<b>Update 21.09.2018</b><br>
+Update 21.09.2018<br>
 We have completed the hardware expansion ahead of Q4. It was not necesarry, but I had a lot of fun doing it.
