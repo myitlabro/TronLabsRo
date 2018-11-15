@@ -4,7 +4,8 @@ TronLabs Romania is planning to support the TRON community in 2018 and 2019 by d
 - 2.5% for initiatives that contribute to the TRON project and community.
 - 2.5% for organizing our community events.
 
-We plan to revise the percentages periodically based on TRON (#TRX) price. Transparency about any changes is mandatory and we will plan to announce this early enough.
+Important
+We plan to revise the percentages periodically based on TRON (#TRX) price. Transparency about any changes is mandatory and we will plan to announce this early enough. The woting rewards will be paid as soon as we can claim the first 1000 TRX. Untill now they remain in tronscan and you can check on Trxplorer (https://www.trxplorer.io/address/TYTYuSyiEpxNsjakQSRmjiZAymvxoBbziH#/aw) that no withdrawals have ever occured.
 
 In the long term (from 2021):
 We plan to establish a local data center in 2020 where we host our own servers, that serve the TRON network.
