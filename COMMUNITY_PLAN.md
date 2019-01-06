@@ -1,4 +1,4 @@
-TronLabs Romania is planning to support the TRON community in 2018, 2019 and 2020 by donating 75% of the total rewards as follows:
+TronLabs Romania is planning to support the TRON community in 2018, 2019 and 2020 by donating **75%** of the total rewards as follows:
 - **60%** directly to our voters
 - **10%** to be used for a DApp development fund
 - **2.5%** for initiatives that contribute to the TRON project and community.
