@@ -1,7 +1,7 @@
 ## Founder
 
-Name: Dorian Tang
-Role: founder
+**Name:** Dorian Tang
+**Role:** founder
 
 My name is Dorian, I am an IT consultant and Azure Architect. I've been using, designing and deploying both VMware and Microsoft based solutions since 2008. I'm specialized in designing and implementing private and hybrid cloud solution based on the Microsoft software stack, Datacenter migrations and transformation, disaster avoidance.
 
@@ -12,4 +12,4 @@ I was always curios and wanted to learn new stuff, this is why I've dedicated my
 You can read more about my professional experience on LinkedIn:
 https://www.linkedin.com/in/doriantang
 
-The idea to run as Tron SR came, when I've attended the first Tron Meet-up help by CryptoGirls on the 12th of June 2018 in Bucharest.
+The idea to run as Tron SR came, when I've attended the first Tron meet-up help by CryptoGirls on the 12th of June 2018 in Bucharest.
