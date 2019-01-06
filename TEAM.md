@@ -1,9 +1,10 @@
 ## Founder
 
 **Name:** Dorian Tang
+
 **Role:** founder
 
-My name is Dorian, I am an IT consultant and Azure Architect. I've been using, designing and deploying both VMware and Microsoft based solutions since 2008. I'm specialized in designing and implementing private and hybrid cloud solution based on the Microsoft software stack, Datacenter migrations and transformation, disaster avoidance.
+ My name is Dorian, I am an IT consultant and Azure Architect. I've been using, designing and deploying both VMware and Microsoft based solutions since 2008. I'm specialized in designing and implementing private and hybrid cloud solution based on the Microsoft software stack, Datacenter migrations and transformation, disaster avoidance.
 
 I've been in the IT industry since 2002 and I'm in consulting services since 2008 when I've started working for Microsoft in Bucharest providing Level 3 and above support for enterprise customers and did so till 2016. Then I've joined Veeam Software as an engineer, helped build the local tech support organization from scratch and currently lead the local tech support team for the DACH area.
 
